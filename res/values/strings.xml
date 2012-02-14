@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO Remote Outlets</string>
+    <string name="outlet1on">#1 ON</string>
+    <string name="outlet1off">#1 OFF</string>
+    <string name="outlet2on">#2 ON</string>
+    <string name="outlet2off">#2 OFF</string>
+    <string name="outlet3on">#3 ON</string>
+    <string name="outlet3off">#3 OFF</string>
+
+</resources>
